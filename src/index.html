@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chatbot</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div id="custom-iframe-container" class="iframe-container">
+    <iframe 
+      id="custom-iframe"
+      src="https://mescyt.gob.do/" 
+      frameborder="0"
+      scrolling="no"
+      allowfullscreen
+      class="iframe-element">
+    </iframe>
+  </div>
+  <!-- Boton flotante -->
+  <div id="chatbot-button" class="chatbot-button">
+    💬
+  </div>
+
+  <!-- Contenedor del chatbot -->
+  <div id="chatbot-container" class="chatbot-container hidden">
+    <div class="chat-header">
+      <h2>Asistente Virtual</h2>
+      <button id="close-chatbot" class="close-button">✖</button>
+    </div>
+    <div id="webchat" class="chat-body"></div>
+  </div>
+
+  <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
+  <script src="scripts.js"></script>
+</body>
+</html>
