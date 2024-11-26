@@ -55,7 +55,6 @@ Este proyecto implementa un chatbot de auto-respuestas para el **Ministerio de E
 ## 🔗 Recursos y Enlaces
 
 - **Demo del ChatBot**: [Ver Demo](https://doom-exe.github.io/ChatBot-IA/)
-- **Repositorio en GitHub**: [GitHub Repo](https://github.com/DOOM-EXE/ChatBot_ia)
 - **Equipos**: [Enlace de compra de computadoras](https://www.amazon.es/s?k=computadores&__mk_es_ES=ÅMÅŽÕÑ&crid=28UP3J5J6ZR1N&sprefix=computadores+%2Caps%2C343&ref=nb_sb_noss_2)
 - **📹 Tutorial de Implementación**: [Ver tutorial](https://www.youtube.com/watch?v=gYjtrGUlTgs)
 
