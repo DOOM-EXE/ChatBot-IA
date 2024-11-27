@@ -6,7 +6,7 @@ scripts.js
 
 # Log file
 *.log
-
+*.js
 # BlueJ files
 *.ctxt
 
