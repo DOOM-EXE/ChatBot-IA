@@ -1,5 +1,5 @@
 # Ignorar script.js
-script.js
+*script.js
 
 # Compiled class file
 *.class
